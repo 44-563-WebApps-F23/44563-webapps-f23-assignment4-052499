@@ -15,6 +15,19 @@ direction {
     box-shadow: 0 0 6px rgba(255, 0, 0, 0.5);
     border: 2px rgb(133, 64, 64);
   }
+  
+  .brovik:hover{
+      box-shadow: 0 0 6px rgba(255, 0, 0, 0.5);
+      border: 2px rgb(133, 64, 64);
+  }
+  .kaia:hover{
+      box-shadow: 0 0 6px rgba(255, 0, 0, 0.5);
+      border: 2px rgb(133, 64, 64);
+  }
+  .ragnar:hover{
+      box-shadow: 0 0 6px rgba(255, 0, 0, 0.5);
+      border: 2px rgb(133, 64, 64);
+  }
   .Dr.Stokemann {
     color:blue;
   }
