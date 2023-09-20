@@ -1,15 +1,16 @@
 .direction {
     font-family: "serif" ;
     font-size: 15px;
-    background-color: rgb(66, 145, 145);
+    background-color: black;
   }
   .direction:hover {
     background-color: rgb(83, 9, 152);
-    color: white;
+    color: lightpink;
   }
   .speech {
     font-family: "Courier New", Courier, monospace;
-    font-size: 15px;
+    font-size: 10px;
+    background-color: black;
   }
   .Dr.Stokemann {
     color:blue;
