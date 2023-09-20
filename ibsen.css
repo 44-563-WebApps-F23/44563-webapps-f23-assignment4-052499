@@ -4,21 +4,21 @@
     background-color: azure;
   }
   .direction:hover {
-    background-color: blueviolet;
+    background-color: rgb(114, 80, 146);
     color: white;
   }
   .speech {
     font-family: "Courier New", Courier, monospace;
     font-size: 15px;
   }
-  .brovik {
-    color: blue;
+  .Mrs.Stockmann  {
+    color: rgb(96, 96, 139);
   }
-  .kaia {
+  .Horster  {
     color: brown;
   }
-  .ragnar {
-    color: red;
+  .Billing {
+    color: rgb(78, 8, 8);
   }
   .EnemyAct {
     border: 1px solid;
@@ -41,5 +41,5 @@
   }
   
   .EnemyAct tr:hover {
-    background-color: #9de3f0;
+    background-color: #153e44;
   }
