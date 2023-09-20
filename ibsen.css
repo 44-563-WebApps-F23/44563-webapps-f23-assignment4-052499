@@ -20,26 +20,26 @@
   .ragnar {
     color: red;
   }
-  .playTable {
+  .EnemyAct {
     border: 1px solid;
     border-collapse: collapse;
     margin:1px;
   }
   
-  .playTable th {
+  .EnemyAct th {
     text-align: center; 
     padding: 10px;
   }
   
-  .playTable td {
+  .EnemyAct td {
     text-align: center;
     padding: 10px;
   }
   
-  .playTable tr:nth-child(even) {
+  .EnemyAct tr:nth-child(even) {
     background-color: #f2f2f2;
   }
   
-  .playTable tr:hover {
+  .EnemyAct tr:hover {
     background-color: #9de3f0;
   }
