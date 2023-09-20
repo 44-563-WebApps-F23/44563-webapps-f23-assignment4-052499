@@ -5,7 +5,7 @@ direction {
   }
   .direction:hover {
     background-color: blueviolet;
-    color: white;
+    color: lightgray;
   }
   .speech {
     font-family: "Courier New", Courier, monospace;
