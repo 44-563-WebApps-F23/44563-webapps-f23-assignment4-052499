@@ -11,14 +11,6 @@ direction {
     font-family: "Courier New", Courier, monospace;
     font-size: 15px;
   }
-  .Dr.Stokemann:hover {
-    box-shadow: 0 0 6px rgba(255, 0, 0, 0.5);
-    border: 2px rgb(133, 64, 64);
-  }
-  .Mrs.Stockmann:hover{
-      box-shadow: 0 0 6px rgba(255, 0, 0, 0.5);
-      border: 2px rgb(133, 64, 64);
-  }
   .Horster:hover{
       box-shadow: 0 0 6px rgba(255, 0, 0, 0.5);
       border: 2px rgb(133, 64, 64);
@@ -30,7 +22,7 @@ direction {
   .Dr.Stokemann {
     color:blue;
   }
-  .Mrs.Stockmann  {
+  .Mrs.Stockmann {
     color: violet;
   }
   .Horster  {
