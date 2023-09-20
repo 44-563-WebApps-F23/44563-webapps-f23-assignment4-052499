@@ -1,7 +1,7 @@
 direction {
     font-family: "Times New Roman", Times, serif;
     font-size: 25px;
-    background-color: azure;
+    background-color: rgb(95, 150, 150);
   }
   .direction:hover {
     background-color: blueviolet;
