@@ -1,16 +1,19 @@
-.direction {
-    font-family: "serif" ;
+direction {
+    font-family: "Times New Roman", Times, serif;
     font-size: 15px;
-    background-color: black;
+    background-color: azure;
   }
   .direction:hover {
-    background-color: rgb(83, 9, 152);
-    color: lightpink;
+    background-color: blueviolet;
+    color: white;
   }
   .speech {
     font-family: "Courier New", Courier, monospace;
     font-size: 10px;
-    background-color: black;
+  }
+  .solness:hover {
+    box-shadow: 0 0 6px rgba(255, 0, 0, 0.5);
+    border: 2px rgb(133, 64, 64);
   }
   .Dr.Stokemann {
     color:blue;
