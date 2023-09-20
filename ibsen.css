@@ -11,20 +11,19 @@ direction {
     font-family: "Courier New", Courier, monospace;
     font-size: 15px;
   }
-  .solness:hover {
+  .Dr.Stokemann :hover {
     box-shadow: 0 0 6px rgba(255, 0, 0, 0.5);
     border: 2px rgb(133, 64, 64);
   }
-  
-  .brovik:hover{
+  .Mrs.Stockmann :hover{
       box-shadow: 0 0 6px rgba(255, 0, 0, 0.5);
       border: 2px rgb(133, 64, 64);
   }
-  .kaia:hover{
+  .Horster:hover{
       box-shadow: 0 0 6px rgba(255, 0, 0, 0.5);
       border: 2px rgb(133, 64, 64);
   }
-  .ragnar:hover{
+  .Billing:hover{
       box-shadow: 0 0 6px rgba(255, 0, 0, 0.5);
       border: 2px rgb(133, 64, 64);
   }
