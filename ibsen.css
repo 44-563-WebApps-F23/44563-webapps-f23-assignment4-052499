@@ -1,5 +1,5 @@
 .direction {
-    font-family: "serif ;
+    font-family: "serif" ;
     font-size: 15px;
     background-color: rgb(66, 145, 145);
   }
@@ -11,8 +11,11 @@
     font-family: "Courier New", Courier, monospace;
     font-size: 15px;
   }
+  .Dr.Stokemann {
+    color:blue;
+  }
   .Mrs.Stockmann  {
-    color: rgb(5, 5, 133);
+    color: violet;
   }
   .Horster  {
     color: rgb(227, 4, 4);
