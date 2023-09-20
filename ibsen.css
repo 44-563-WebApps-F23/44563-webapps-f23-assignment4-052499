@@ -1,6 +1,6 @@
 direction {
     font-family: "Times New Roman", Times, serif;
-    font-size: 15px;
+    font-size: 25px;
     background-color: azure;
   }
   .direction:hover {
@@ -9,7 +9,7 @@ direction {
   }
   .speech {
     font-family: "Courier New", Courier, monospace;
-    font-size: 10px;
+    font-size: 15px;
   }
   .solness:hover {
     box-shadow: 0 0 6px rgba(255, 0, 0, 0.5);
