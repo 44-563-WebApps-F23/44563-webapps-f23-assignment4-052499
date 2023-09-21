@@ -27,14 +27,14 @@ direction {
       box-shadow: 0 0 6px rgba(255, 0, 0, 0.5);
       border: 2px rgb(133, 64, 64);
   }
-  .Aslaken:hover{
+  .Aslaksen:hover{
     box-shadow: 0 0 6px rgba(255, 0, 0, 0.5);
     border: 2px rgb(133, 64, 64);
   }
   .Hovstad{
     color:hotpink;
   }
-  .Aslaken{
+  .Aslaksen{
     color:bisque;
   }
   .Petra {
